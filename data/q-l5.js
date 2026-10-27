@@ -1,0 +1,95 @@
+/* Lecture 5：Sectional Conflict & the Impact of Slavery（15 題） */
+(window.QBANK = window.QBANK || []).push(
+{id:'L5-01', u:'L5', t:'south-economy', k:'thing',
+ q:`Which crop dominated the Southern economy?`,
+ o:[`Wheat`,`Rice`,`Cotton`,`Tobacco`], a:2,
+ e:`「棉花王國」（King Cotton）：1860 年棉花約占美國出口的六成，南方供應了全球絕大部分的棉花原料，供應英國與新英格蘭紡織廠。軋棉機（1793）之後，奴隸人口從 1790 年的約 70 萬增加到 1860 年的約 400 萬。`,
+ w:`Tobacco 是殖民時期 Virginia 的主力，十九世紀地位下降；Rice 集中在 Carolina 沿海低地；Wheat 主要在北方與中西部。`,
+ m:`殖民地時代 Virginia = Tobacco；1800s 南方 = Cotton。`},
+
+{id:'L5-02', u:'L5', t:'sectional', k:'date',
+ q:`The Missouri Compromise was passed in:`,
+ o:[`1776`,`1820`,`1848`,`1861`], a:1,
+ e:`Missouri Compromise 於 1820 年通過：Maine 入聯邦為自由州、Missouri 為奴隸州（1821 入州），並以北緯 36°30′ 劃線，線以北的 Louisiana Purchase 領土禁奴（Missouri 例外）。`,
+ w:`1776 是獨立宣言；1848 是美墨戰爭結束；1861 是內戰開始。`},
+
+{id:'L5-03', u:'L5', t:'abolition', k:'person',
+ q:`Who founded The Liberator?`,
+ o:[`Frederick Douglass`,`John Brown`,`William Lloyd Garrison`,`Henry Clay`], a:2,
+ e:`William Lloyd Garrison 1831 年在 Boston 創辦廢奴報紙《The Liberator》，主張「立即、無條件廢奴」，1833 年共同創立 American Anti-Slavery Society；他稱憲法是 "a covenant with death"，甚至公開焚燒憲法。`,
+ w:`Frederick Douglass 是前奴隸、廢奴演說家，創辦《The North Star》（1847）；John Brown 主張武裝起義；Henry Clay 是妥協派，並支持把黑人送回非洲的殖民計畫。`,
+ m:`Garrison = Liberator = 立即廢奴（Boston 1831）。`},
+
+{id:'L5-04', u:'L5', t:'abolition', k:'thing',
+ q:`The Underground Railroad helped:`,
+ o:[`Railroad workers`,`Immigrants`,`Escaped slaves`,`Gold miners`], a:2,
+ e:`Underground Railroad 並不是真的鐵路，而是由黑人與白人廢奴主義者組成的秘密路線與安全屋（safe houses）網絡，協助逃亡奴隸前往北方自由州與加拿大。Harriet Tubman 是最著名的 "conductor"，約 13 次返回南方救出約 70 人。`,
+ w:`其他選項與此網絡無關；用 railroad 只是借用 "conductors"、"stations" 等鐵路術語。`},
+
+{id:'L5-05', u:'L5', t:'sectional', k:'event', ident:`Manifest Destiny`,
+ q:`Which war added vast western territories?`,
+ o:[`War of 1812`,`Mexican-American War`,`Spanish-American War`,`Revolutionary War`], a:1,
+ e:`美墨戰爭（1846–48）起因於 1845 年德州併吞、邊界爭議與 Polk 總統的擴張主義。Treaty of Guadalupe Hidalgo（1848）使墨西哥割讓 California、Nevada、Utah 與 Arizona、New Mexico、Colorado、Wyoming 的部分土地（Mexican Cession，美國付 1,500 萬美元）。新領土能不能蓄奴，馬上引爆 Wilmot Proviso（1846）爭議，把南北衝突推向高峰。`,
+ w:`War of 1812 是對英國；Spanish-American War（1898）取得的是 Puerto Rico、Guam、Philippines 等海外島嶼；Revolutionary War 是獨立戰爭。`},
+
+{id:'L5-06', u:'L5', t:'sectional', k:'concept',
+ q:`California entered the Union as:`,
+ o:[`Slave state`,`Territory`,`Free state`,`Confederate state`], a:2,
+ e:`1848–49 年 Gold Rush 讓加州人口暴增，1849 年制憲禁止奴隸制，1850 年依 Compromise of 1850 以自由州（free state）加入，打破了原本 15 比 15 的州數平衡；作為補償，南方得到更嚴格的 Fugitive Slave Act。`,
+ w:`加州從來不是奴隸州；Territory 只是入州前階段；Confederate 是 1861 年南方邦聯，時間不合。`},
+
+{id:'L5-07', u:'L5', t:'sectional', k:'concept', ident:`Kansas-Nebraska Act`,
+ q:`Popular sovereignty meant:`,
+ o:[`President decides`,`Congress decides`,`Supreme Court decides`,`Settlers decide`], a:3,
+ e:`Popular sovereignty（人民主權）指由領地居民自己投票決定是否容許奴隸制。Stephen Douglas 推動將它應用於 1854 年的 Kansas-Nebraska Act，結果導致支持與反對奴隸制的人湧入 Kansas 競爭，引爆 "Bleeding Kansas"。`,
+ w:`A、B 都不是此原則；C 是 Dred Scott（1857）的做法——最高法院宣告國會無權在領地禁止奴隸制。`},
+
+{id:'L5-08', u:'L5', t:'sectional', k:'doc',
+ q:`Which law required return of runaway slaves?`,
+ o:[`Kansas-Nebraska Act`,`Fugitive Slave Act`,`Homestead Act`,`Stamp Act`], a:1,
+ e:`1850 年 Compromise of 1850 的一部分。Fugitive Slave Act 要求北方公民與官員協助捉捕逃奴，被指控的逃奴不能作證、不能由陪審團審理；聯邦專員判定為奴隸可得 10 美元，判定自由僅 5 美元。這激怒北方，反而使更多人支持廢奴。`,
+ w:`Kansas-Nebraska Act（1854）廢除 36°30′ 線並採人民主權；Homestead Act（1862）送土地給拓荒者；Stamp Act（1765）是殖民地時期稅法。`},
+
+{id:'L5-09', u:'L5', t:'abolition', k:'doc', ident:`Uncle Tom's Cabin`,
+ q:`Harriet Beecher Stowe wrote:`,
+ o:[`Common Sense`,`Federalist Papers`,`Uncle Tom's Cabin`,`Democracy in America`], a:2,
+ e:`1852 年 Harriet Beecher Stowe 出版《Uncle Tom's Cabin》，以感人的小說情節揭露奴隸制的殘酷，第一年在美國賣出約 30 萬冊，大大激發北方反奴情緒，也引起南方強烈反彈。傳說 Lincoln 稱她為「引發這場大戰的小女人」，但這句話可能是後人附會。`,
+ w:`Common Sense 是 Paine（1776）；Federalist Papers 是 Hamilton、Madison、Jay（1787–88）；Democracy in America 是法國人 Tocqueville（1835/1840）。`},
+
+{id:'L5-10', u:'L5', t:'sectional', k:'concept', ident:`Kansas-Nebraska Act`,
+ q:`Bleeding Kansas refers to:`,
+ o:[`Gold mining accidents`,`Civil War battle`,`Violence over slavery`,`Native American wars`], a:2,
+ e:`1854 年 Kansas-Nebraska Act 之後，支持與反對奴隸制的人湧入 Kansas 搶奪控制權，雙方各自成立政府。1856 年 Lawrence 被親奴暴徒劫掠，John Brown 以 Pottawatomie 屠殺報復；參議員 Charles Sumner 也在議場被 Preston Brooks 用手杖毆打。這被視為內戰前奏。`,
+ w:`它不是礦災、不是內戰中的戰役（內戰在 1861 才開始），也不是原住民戰爭。`},
+
+{id:'L5-11', u:'L5', t:'sectional', k:'doc',
+ q:`Dred Scott claimed:`,
+ o:[`Voting rights`,`Freedom based on residence in free territory`,`Land ownership`,`Senate representation`], a:1,
+ e:`Dred Scott 是被主人帶到自由州 Illinois 與自由領地居住過的奴隸，主張「在自由地居住即獲自由」。1857 年最高法院在首席大法官 Taney 主持下判決：黑人不是美國公民、無權在聯邦法院起訴；國會無權禁止領地奴隸制，Missouri Compromise 違憲。此判決激怒北方，壯大共和黨。`,
+ w:`Dred Scott 不是爭取投票權、土地或參議院代表。`},
+
+{id:'L5-12', u:'L5', t:'sectional', k:'person',
+ q:`Lincoln debated:`,
+ o:[`Henry Clay`,`Jefferson Davis`,`Stephen Douglas`,`John Brown`], a:2,
+ e:`1858 年 Illinois 參議員選舉中，Lincoln 與 Stephen Douglas 進行七場辯論，議題是奴隸制能否擴張到領地。Lincoln 說 "A house divided against itself cannot stand"；Douglas 提出 Freeport Doctrine。Lincoln 雖然落選，卻因此成名，兩人在 1860 年總統大選再度對決。`,
+ w:`Clay 死於 1852 年；Jefferson Davis 是南方邦聯總統，不是辯論對手；John Brown 是廢奴暴力派，1859 年被絞死。`},
+
+{id:'L5-13', u:'L5', t:'sectional', k:'event',
+ q:`John Brown attacked:`,
+ o:[`Fort Sumter`,`New Orleans`,`Harpers Ferry`,`Richmond`], a:2,
+ e:`1859 年 10 月，John Brown 帶約 20 人突襲 Virginia（今 West Virginia）的 Harpers Ferry 聯邦軍火庫，想武裝奴隸發動起義，被 Robert E. Lee 率部隊鎮壓，12 月以叛國罪被絞死。南方因此恐慌，北方部分人視他為殉道者。`,
+ w:`Fort Sumter 是 1861 年南方砲擊的聯邦要塞；Richmond 是邦聯首都；New Orleans 與此事件無關。`},
+
+{id:'L5-14', u:'L5', t:'sectional', k:'date',
+ q:`Lincoln was elected president in:`,
+ o:[`1848`,`1852`,`1856`,`1860`], a:3,
+ e:`1860 年共和黨候選人 Lincoln 只得約 40% 普選票，且在南方多數州根本沒上榜，但憑北方的選舉人票當選（民主黨當時分裂）。選後 1860 年 12 月 South Carolina 首先脫離聯邦，他就職前已有 7 州脫離。`,
+ w:`1848 是 Zachary Taylor；1852 是 Franklin Pierce；1856 是 James Buchanan。`,
+ m:`1860 Lincoln 當選 → 1861 內戰開始。`},
+
+{id:'L5-15', u:'L5', t:'sectional', k:'concept',
+ q:`According to most modern historians, sectional conflict centered primarily on:`,
+ o:[`Immigration`,`Banking`,`Tariffs only`,`Slavery and its expansion`], a:3,
+ e:`多數現代史家認為，南北衝突的核心是奴隸制及其向新領土擴張。南方各州的脫離宣言（如 South Carolina、Mississippi）都明白把保護奴隸制列為理由；關稅與州權等議題往往也是環繞奴隸制展開。把內戰說成主要是州權之爭，是戰後的 "Lost Cause" 敘事。`,
+ w:`Immigration、Banking 都不是主軸；"Tariffs only" 說得太絕對，關稅雖有爭議（1832 Nullification Crisis），但不是內戰主因。`}
+);

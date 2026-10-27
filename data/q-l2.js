@@ -1,0 +1,97 @@
+/* Lecture 2：Early settlement and growth of American colonies（15 題） */
+(window.QBANK = window.QBANK || []).push(
+{id:'L2-01', u:'L2', t:'colonies', k:'thing',
+ q:`Which city became the leading port of New England?`,
+ o:[`Charleston`,`Philadelphia`,`Boston`,`Newport`], a:2,
+ e:`Boston 由 John Winthrop 帶領的 Massachusetts Bay Colony 在 1630 年建立，是新英格蘭最大的港口與貿易、造船中心。新英格蘭土壤貧瘠，所以靠漁業、造船與海上貿易維生。`,
+ w:`Charleston 是南方（South Carolina）的主要港口，出口稻米與靛藍；Philadelphia 是中部殖民地（Pennsylvania）最大城市；Newport 在 Rhode Island，也屬新英格蘭，但規模遠不及 Boston。`},
+
+{id:'L2-02', u:'L2', t:'colonies', k:'thing',
+ q:`Which colony was founded by William Penn?`,
+ o:[`Virginia`,`Pennsylvania`,`Maryland`,`Georgia`], a:1,
+ e:`William Penn 是 Quaker 信徒，1681 年從英王 Charles II 取得特許狀，1682 年建立 Pennsylvania（"Penn's Woods"）。他把這裡當作「聖潔實驗」（Holy Experiment）：宗教寬容、與 Lenape 原住民協議買地，首府 Philadelphia 意為「兄弟之愛」。`,
+ w:`Virginia 是 1607 年 Virginia Company 的 Jamestown；Maryland（1634）由 Calvert 家族（Lord Baltimore）創立，作為天主教徒的避難所；Georgia（1732）由 James Oglethorpe 建立，作為對西班牙佛羅里達的緩衝區。`,
+ m:`Penn → Pennsylvania → Quaker → 宗教寬容 → Philadelphia。`},
+
+{id:'L2-03', u:'L2', t:'colonial-culture', k:'doc',
+ q:`The Mayflower Compact is significant because it:`,
+ o:[`Ended slavery`,`Created the first college`,`Established self-government principles`,`Declared independence`], a:2,
+ e:`1620 年 11 月，Pilgrims 在 Mayflower 號上、登陸前簽下這份契約。他們的登陸地點在原定特許範圍之外，所以 41 位成年男性簽約同意自行制定、遵守法律並依多數決行事。它被視為美國自治（self-government）與「被統治者同意」的早期範例。`,
+ w:`終結奴隸制是 1865 年第 13 修正案；第一所學院是 1636 年的 Harvard；宣布獨立是 1776 年的《獨立宣言》。`},
+
+{id:'L2-04', u:'L2', t:'colonies', k:'concept',
+ q:`Which colonial region relied most heavily on plantation agriculture?`,
+ o:[`New England`,`Middle Colonies`,`Southern Colonies`,`New France`], a:2,
+ e:`南方殖民地（Virginia、Maryland、Carolinas、Georgia）氣候溫暖、土地廣大，適合種植菸草、稻米、靛藍等經濟作物，因此發展出大規模種植園，勞力從契約僕役（indentured servants）逐漸轉為非洲奴隸。`,
+ w:`New England 土壤貧瘠，以小農場、漁業、造船、貿易為主；Middle Colonies 被稱為 "breadbasket"，主要種小麥等穀物；New France 以毛皮貿易為主，而且根本不屬於英屬殖民地。`},
+
+{id:'L2-05', u:'L2', t:'colonies', k:'thing',
+ q:`Which crop was most important to Virginia?`,
+ o:[`Rice`,`Cotton`,`Tobacco`,`Wheat`], a:2,
+ e:`John Rolfe 在 1612 年左右成功栽培出適合出口的菸草，讓 Jamestown 有了賺錢的經濟作物。菸草需要大量勞力與土地，推動了契約僕役制，1619 年第一批非洲人抵達 Virginia，後來逐漸演變為奴隸制。`,
+ w:`Rice（與靛藍）是 South Carolina、Georgia 低地的主力；Cotton 要到 1793 年軋棉機發明後才成為南方的主力作物；Wheat 是中部殖民地的主力。`,
+ m:`Virginia = Tobacco；Carolina = Rice；Deep South（1800s）= Cotton。`},
+
+{id:'L2-06', u:'L2', t:'colonial-culture', k:'date',
+ q:`Harvard College was founded in:`,
+ o:[`1607`,`1620`,`1636`,`1690`], a:2,
+ e:`Harvard 於 1636 年在 Massachusetts Bay Colony（Cambridge）創立，目的是培養清教牧師，是美國最早的高等教育機構。`,
+ w:`1607 是 Jamestown 建立；1620 是 Mayflower 抵達與 Mayflower Compact；1690 與 Harvard 無關（William & Mary 創於 1693、Yale 創於 1701）。`,
+ m:`殖民地大學：Harvard 1636 → William & Mary 1693 → Yale 1701 → Princeton 1746。`},
+
+{id:'L2-07', u:'L2', t:'colonial-culture', k:'thing', ident:`Benjamin Franklin`,
+ q:`Benjamin Franklin helped found:`,
+ o:[`Yale University`,`University of Pennsylvania`,`Princeton University`,`Dartmouth College`], a:1,
+ e:`Franklin 在 1749 年提出教育構想，1751 年開辦 Academy and College of Philadelphia，後來發展為 University of Pennsylvania，特色是世俗、重實用。他還創立 Library Company（1731）、American Philosophical Society（1743）、出版《Poor Richard's Almanack》，是啟蒙運動在美洲的代表人物，後來又參與《獨立宣言》起草、對法外交。`,
+ w:`Yale（1701）是 Connecticut 公理會背景；Princeton（1746）是長老會、大覺醒運動的產物；Dartmouth（1769）由 Eleazar Wheelock 創立，原意是教育原住民。`},
+
+{id:'L2-08', u:'L2', t:'colonial-culture', k:'concept',
+ q:`The John Peter Zenger case is associated with:`,
+ o:[`Slavery`,`Religious freedom`,`Freedom of the press`,`Women’s rights`], a:2,
+ e:`1735 年紐約印刷商 John Peter Zenger 因刊登批評總督 William Cosby 的文章被控煽動誹謗（seditious libel）。律師 Andrew Hamilton 主張「所印屬實就不算誹謗」，陪審團判無罪。此案是新聞自由的重要先例，影響日後的第一修正案精神。`,
+ w:`此案與奴隸制、宗教自由、婦權無關。`},
+
+{id:'L2-09', u:'L2', t:'colonial-culture', k:'concept',
+ q:`The Great Awakening emphasized:`,
+ o:[`Royal authority`,`Personal religious experience`,`Separation from Britain`,`Scientific discovery`], a:1,
+ e:`大覺醒（Great Awakening，1730s–1740s）是宗教復興運動，強調個人的「重生」與情感式布道，而不是依賴教會制度與神職人員。代表人物是 Jonathan Edwards 與 George Whitefield。影響：教派變多、傳統權威被質疑、跨殖民地的共同經驗增加，為革命鋪路。`,
+ w:`強調王權與大覺醒方向相反；脫離英國是 1770s 的事；強調科學發現的是啟蒙運動（Enlightenment），不是大覺醒。`},
+
+{id:'L2-10', u:'L2', t:'colonial-culture', k:'person',
+ q:`Who delivered the sermon "Sinners in the Hands of an Angry God"?`,
+ o:[`George Whitefield`,`John Winthrop`,`Cotton Mather`,`Jonathan Edwards`], a:3,
+ e:`Jonathan Edwards 於 1741 年在 Connecticut 的 Enfield 發表這篇布道，以「地獄之火」的生動描寫，催促聽眾悔改，成為大覺醒的代表文本。`,
+ w:`George Whitefield 是英國巡迴布道家，大覺醒的明星傳教士；John Winthrop 是 Massachusetts Bay 首任總督，1630 年講 "City upon a Hill"；Cotton Mather 是清教牧師，與 1692 Salem 女巫審判有關。`,
+ m:`Edwards = Enfield = Sinners。`},
+
+{id:'L2-11', u:'L2', t:'colonial-culture', k:'person',
+ q:`Which thinker influenced colonial ideas about natural rights?`,
+ o:[`Hobbes`,`Voltaire`,`Locke`,`Rousseau`], a:2,
+ e:`John Locke 在《Two Treatises of Government》（1689）主張人民天生擁有生命、自由、財產權；政府源於人民同意，若違反契約，人民有權推翻它。Jefferson 把這個想法改寫成《獨立宣言》的 "life, liberty, and the pursuit of happiness"。`,
+ w:`Hobbes 主張以強大君主換取秩序（《Leviathan》）；Voltaire 倡導言論自由與宗教寬容；Rousseau 提出「公意」（《Social Contract》），對法國革命影響更大。`},
+
+{id:'L2-12', u:'L2', t:'french-indian', k:'date', ident:`French and Indian War`,
+ q:`The French and Indian War began in:`,
+ o:[`1692`,`1701`,`1754`,`1775`], a:2,
+ e:`法印戰爭起因於英法爭奪俄亥俄河谷（Ohio River Valley）。1754 年年輕的 George Washington 在 Fort Necessity 戰敗，戰事開打；1756 年擴大成歐洲的七年戰爭（Seven Years' War），1763 年以 Treaty of Paris 結束。`,
+ w:`1692 是 Salem 女巫審判；1701 是 Yale 創立；1775 是 Lexington & Concord，獨立戰爭開始。`,
+ m:`1754 開打 → 1763 結束 → 1765 Stamp Act。`},
+
+{id:'L2-13', u:'L2', t:'french-indian', k:'person', ident:`French and Indian War`,
+ q:`Which future president fought at Fort Duquesne?`,
+ o:[`Thomas Jefferson`,`John Adams`,`George Washington`,`James Madison`], a:2,
+ e:`George Washington 當時是 Virginia 民兵軍官：1754 年在俄亥俄地區與法軍交戰並於 Fort Necessity 投降；1755 年隨 Braddock 遠征 Fort Duquesne 慘敗；1758 年 Forbes 遠征終於攻下 Fort Duquesne，改名 Fort Pitt（今 Pittsburgh）。這段經歷為他後來擔任大陸軍總司令累積了軍事經驗。`,
+ w:`Jefferson（生於 1743）、Madison（1751）當時還是少年；Adams（1735）是律師，未上戰場。`},
+
+{id:'L2-14', u:'L2', t:'french-indian', k:'thing', ident:`French and Indian War`,
+ q:`The Peace of Paris (1763) gave Britain control of:`,
+ o:[`Texas`,`Canada`,`Mexico`,`California`], a:1,
+ e:`1763 年 Treaty of Paris 結束七年戰爭／法印戰爭：法國把 Canada 與密西西比河以東的土地讓給英國，並失去在北美大陸的主要勢力；西班牙把佛羅里達讓給英國，並從法國得到 Louisiana 西部作為補償。`,
+ w:`Texas、Mexico、California 當時都屬西班牙的 New Spain，要到 1840s 才進入美國。`},
+
+{id:'L2-15', u:'L2', t:'french-indian', k:'concept', ident:`French and Indian War`,
+ q:`Which event is widely regarded as laying foundations for the American Revolution?`,
+ o:[`Salem Witch Trials`,`Great Awakening only`,`French and Indian War`,`Founding of Harvard`], a:2,
+ e:`戰爭使英國國債幾乎倍增，因此要向殖民地課稅並加強管理：1763 年 Proclamation（禁止越過 Appalachians 移墾）、Sugar Act、Stamp Act，引發抵抗。同時法國威脅消失，殖民地不再依賴英國保護；殖民地也累積了跨殖民地合作與軍事經驗（如 1754 Albany Congress）。`,
+ w:`Salem 與革命無關；Great Awakening 提供部分思想背景，但題目中的 "only" 表示單靠它不足以解釋；Harvard（1636）與革命無直接關係。`}
+);

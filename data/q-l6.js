@@ -1,0 +1,96 @@
+/* Lecture 6：The Civil War and Reconstruction（15 題） */
+(window.QBANK = window.QBANK || []).push(
+{id:'L6-01', u:'L6', t:'civil-war', k:'event',
+ q:`Which event officially began the Civil War?`,
+ o:[`Gettysburg`,`Fort Sumter`,`Antietam`,`Vicksburg`], a:1,
+ e:`1861 年 4 月 12 日，南方邦聯軍砲擊 South Carolina Charleston 港的 Fort Sumter，次日要塞投降。Lincoln 隨即號召 7.5 萬志願兵，Virginia、North Carolina、Tennessee、Arkansas 四州因此也脫離聯邦。`,
+ w:`Antietam（1862）、Gettysburg、Vicksburg（1863）都發生在戰爭開打之後。`},
+
+{id:'L6-02', u:'L6', t:'civil-war', k:'person',
+ q:`Confederate President?`,
+ o:[`Lincoln`,`Grant`,`Jefferson Davis`,`Lee`], a:2,
+ e:`Jefferson Davis 在 1861 年 2 月當選邦聯（Confederate States of America）總統，邦聯首都先在 Montgomery，後遷到 Richmond。他曾是 Mississippi 參議員與陸軍部長，1865 年 5 月被俘。`,
+ w:`Lincoln 是北方聯邦總統；Grant 是北軍大將（後來是第 18 任總統）；Lee 是南軍北維吉尼亞軍團司令。別把 Jefferson Davis 和 Thomas Jefferson 搞混。`},
+
+{id:'L6-03', u:'L6', t:'civil-war', k:'concept',
+ q:`What was the major cause of secession?`,
+ o:[`Tariffs`,`Immigration`,`Slavery`,`Railroads`], a:2,
+ e:`南方各州宣布脫離聯邦，主因是擔心共和黨的 Lincoln 當選會威脅奴隸制。各州的脫離宣言都明確寫出保護奴隸制。`,
+ w:`關稅爭議較早（1828、1832 Nullification Crisis），不是 1860–61 年脫離的主因；移民與鐵路也不是核心因素。`},
+
+{id:'L6-04', u:'L6', t:'civil-war', k:'event',
+ q:`Which battle was the bloodiest single day?`,
+ o:[`Gettysburg`,`Bull Run`,`Antietam`,`Shiloh`], a:2,
+ e:`1862 年 9 月 17 日 Maryland 的 Antietam（Sharpsburg）一天傷亡約 22,700 人，是美國軍事史上單日最血腥的一天。戰略上北軍獲勝，Lee 被迫退回 Virginia，讓 Lincoln 能於 9 月 22 日發布《解放奴隸宣言》預告，也使英法不敢貿然承認南方。`,
+ w:`Gettysburg 是三天戰役（1863/7/1–3），總傷亡更多但不是「單日」；Bull Run（1861）是第一場大戰；Shiloh（1862 年 4 月）為兩天戰役。`,
+ m:`Antietam = 單日最血腥 = 預告解放奴隸宣言。`},
+
+{id:'L6-05', u:'L6', t:'civil-war', k:'date',
+ q:`Emancipation Proclamation became effective in:`,
+ o:[`1861`,`1862`,`1863`,`1865`], a:2,
+ e:`Lincoln 在 1862 年 9 月預告，1863 年 1 月 1 日正式生效：宣布「仍在叛亂中的州」境內的奴隸為自由人。它不適用於效忠聯邦的邊境州（Delaware、Kentucky、Maryland、Missouri）與已被北軍占領的地區，但把戰爭目標從「保存聯邦」擴大到「終結奴隸制」，並允許黑人從軍（約 18 萬人）。`,
+ w:`1862 只是預告（9 月 22 日）；1861 戰爭開始；1865 是第 13 修正案通過、真正在全國廢除奴隸制。`},
+
+{id:'L6-06', u:'L6', t:'civil-war', k:'person', ident:`Anaconda Plan`,
+ q:`Union general at Vicksburg?`,
+ o:[`Lee`,`Grant`,`Jackson`,`Beauregard`], a:1,
+ e:`Ulysses S. Grant 圍攻 Vicksburg（Mississippi）約 47 天，1863 年 7 月 4 日守軍投降，北軍控制整條密西西比河，把邦聯切成兩半，是 Anaconda Plan（海上封鎖＋掌控密西西比河）的關鍵一環。他之後升任北軍總司令，1865 年在 Appomattox 接受 Lee 的投降。`,
+ w:`Lee 是南軍；Thomas "Stonewall" Jackson 是南軍名將；Beauregard 是南軍將領，下令砲擊 Fort Sumter。`},
+
+{id:'L6-07', u:'L6', t:'civil-war', k:'date',
+ q:`Gettysburg occurred in:`,
+ o:[`1861`,`1862`,`1863`,`1865`], a:2,
+ e:`1863 年 7 月 1–3 日在 Pennsylvania，George Meade 率北軍擊退 Lee 的北侵（Pickett's Charge 失敗），傷亡約 5 萬，是東線的轉捩點。同年 11 月 Lincoln 在此發表 Gettysburg Address，強調 "government of the people, by the people, for the people"。`,
+ w:`1861 是 Fort Sumter 與 Bull Run；1862 是 Antietam；1865 是戰爭結束。`,
+ m:`1863 = 解放奴隸宣言生效 + Gettysburg + Vicksburg。`},
+
+{id:'L6-08', u:'L6', t:'civil-war', k:'event',
+ q:`Sherman’s march targeted:`,
+ o:[`Canada`,`Infrastructure`,`Mexico`,`California`], a:1,
+ e:`1864 年 11–12 月 William T. Sherman 從 Atlanta 行軍到 Savannah（"March to the Sea"），採「總體戰」：破壞鐵路、工廠、倉庫、農作物與種植園，削弱南方的戰爭能力與民心，而不只是占領城市。`,
+ w:`Canada、Mexico、California 在地理與戰爭目標上都與此無關。`},
+
+{id:'L6-09', u:'L6', t:'civil-war', k:'date',
+ q:`Lincoln was assassinated in:`,
+ o:[`1863`,`1864`,`1865`,`1866`], a:2,
+ e:`1865 年 4 月 14 日晚，John Wilkes Booth 在華盛頓 Ford's Theatre 開槍，Lincoln 於 15 日清晨去世，距離 Lee 在 Appomattox 投降只有五天。`,
+ w:`1863 是《解放奴隸宣言》生效與 Gettysburg；1864 是 Lincoln 連任；1866 是 Andrew Johnson 與國會共和黨的衝突加劇。`},
+
+{id:'L6-10', u:'L6', t:'reconstruction', k:'doc',
+ q:`13th Amendment:`,
+ o:[`Voting rights`,`Equal protection`,`Abolished slavery`,`Income tax`], a:2,
+ e:`第 13 修正案（1865 年 12 月批准）廢除奴隸制與非自願勞役（但保留作為犯罪懲罰的例外）。`,
+ w:`Equal protection 是第 14 修正案；Voting rights 是第 15 修正案；Income tax 是第 16 修正案（1913）。`,
+ m:`13 = 自由；14 = 公民＋平等保護；15 = 投票。`},
+
+{id:'L6-11', u:'L6', t:'reconstruction', k:'doc',
+ q:`14th Amendment granted:`,
+ o:[`Citizenship`,`Segregation`,`Tariffs`,`Land grants`], a:0,
+ e:`第 14 修正案（1868）規定凡在美國出生或歸化者皆為公民（等於推翻 Dred Scott 判決），各州不得剝奪人民的正當程序（due process）與法律平等保護（equal protection）。日後 Brown v. Board 等許多民權判決都引用它。`,
+ w:`它不是確立隔離（Plessy 1896 另有判決）；與關稅、土地授予無關（Homestead Act 才是土地）。`},
+
+{id:'L6-12', u:'L6', t:'reconstruction', k:'doc',
+ q:`15th Amendment protected:`,
+ o:[`Property`,`Voting rights`,`Education`,`Religion`], a:1,
+ e:`第 15 修正案（1870）規定不得因種族、膚色或過去的奴隸身分而剝奪投票權，但只涵蓋男性；婦女投票權要到 1920 年第 19 修正案。南方後來用 poll tax、識字測驗、祖父條款等方法規避，直到 1965 年 Voting Rights Act 才有效改善。`,
+ w:`Property、Education、Religion 都不是第 15 修正案的主題。`},
+
+{id:'L6-13', u:'L6', t:'reconstruction', k:'person',
+ q:`President after Lincoln?`,
+ o:[`Grant`,`Hayes`,`Johnson`,`Davis`], a:2,
+ e:`Andrew Johnson 是 Lincoln 第二任的副總統，1865 年繼任。他採寬鬆的 Presidential Reconstruction，否決 Freedmen's Bureau 延長與 1866 Civil Rights Act，與國會激進共和黨決裂，1868 年成為第一位被眾議院彈劾的總統，參議院以一票之差未定罪。`,
+ w:`Grant 是 1869–77；Hayes 是 1877–81，他就任象徵 Reconstruction 結束；Davis 是邦聯總統。`},
+
+{id:'L6-14', u:'L6', t:'reconstruction', k:'concept',
+ q:`Radical Republicans favored:`,
+ o:[`Immediate Southern control`,`Strong Reconstruction`,`Secession`,`Slavery expansion`], a:1,
+ e:`激進共和黨人（如 Thaddeus Stevens、Charles Sumner）主張強力的重建：保障被解放黑人的公民權與投票權、軍事占領南方（1867 Reconstruction Acts）、通過 14、15 修正案、懲處前叛亂領袖。`,
+ w:`A 是 Johnson 與南方白人的立場；C、D 是邦聯與南方奴隸主的立場。`},
+
+{id:'L6-15', u:'L6', t:'reconstruction', k:'date',
+ q:`Reconstruction effectively ended in:`,
+ o:[`1865`,`1868`,`1870`,`1877`], a:3,
+ e:`1876 年大選 Hayes 與 Tilden 結果有爭議，雙方達成 Compromise of 1877：Hayes 就任，北軍撤出南方。南方白人民主黨（"Redeemers"）重掌政權，黑人權利被逐步剝奪，進入 Jim Crow 時代（1896 Plessy v. Ferguson）。`,
+ w:`1865 是戰爭結束；1868 是第 14 修正案；1870 是第 15 修正案。`,
+ m:`重建 1865–1877；Hayes 1877 = 結束。`}
+);

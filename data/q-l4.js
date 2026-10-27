@@ -1,0 +1,96 @@
+/* Lecture 4：Westward Expansion and Regional Differences（15 題） */
+(window.QBANK = window.QBANK || []).push(
+{id:'L4-01', u:'L4', t:'south-economy', k:'thing',
+ q:`Which invention increased cotton production?`,
+ o:[`Telegraph`,`Cotton Gin`,`Reaper`,`Steam Engine`], a:1,
+ e:`Eli Whitney 於 1793 年發明軋棉機（cotton gin），能快速分離棉纖維與棉籽，讓內陸的短纖維棉花有利可圖。棉花種植從沿海擴張到 Alabama、Mississippi 等 Deep South，對奴隸勞力的需求大增，反而讓奴隸制更加根深蒂固。`,
+ w:`Telegraph 是 Samuel Morse 的發明（1840s）；Reaper 是 McCormick 的收割機（1830s），用於小麥；Steam Engine 是更早的動力技術（Watt 改良、Fulton 汽船 1807）。`,
+ m:`軋棉機 → 棉花暴增 → 奴隸更多（不是減少）。`},
+
+{id:'L4-02', u:'L4', t:'sectional', k:'concept',
+ q:`Missouri entered as a:`,
+ o:[`Free State`,`Protectorate`,`Territory`,`Slave State`], a:3,
+ e:`依 1820 年 Missouri Compromise：Missouri 以奴隸州（slave state）、Maine 以自由州（free state）加入聯邦（Missouri 實際在 1821 年入州），維持參議院 12 比 12 的平衡；此外，在 36°30′ 以北的 Louisiana Purchase 領土（Missouri 除外）禁止奴隸制。`,
+ w:`自由州是 Maine；Territory 只是入州前的階段；Protectorate 不是美國的州制度。`},
+
+{id:'L4-03', u:'L4', t:'native', k:'date', ident:`Indian Removal Act`,
+ q:`Indian Removal Act was passed in:`,
+ o:[`1812`,`1820`,`1830`,`1848`], a:2,
+ e:`1830 年在 Andrew Jackson 總統任內通過，授權總統與東部部落協商，以土地交換方式把他們遷往密西西比河以西的「印第安領地」（今 Oklahoma 一帶）。東南部「五大文明部落」Cherokee、Choctaw、Chickasaw、Creek、Seminole 都被迫遷移。`,
+ w:`1812 是 War of 1812；1820 是 Missouri Compromise；1848 是美墨戰爭結束（Treaty of Guadalupe Hidalgo）與 Seneca Falls 大會。`,
+ m:`1830 + Jackson → 1838 Trail of Tears。`},
+
+{id:'L4-04', u:'L4', t:'native', k:'event', ident:`Indian Removal Act`,
+ q:`Trail of Tears primarily involved:`,
+ o:[`Sioux`,`Navajo`,`Cherokee`,`Apache`], a:2,
+ e:`1838–39 年，約 16,000 名 Cherokee 被美軍從 Georgia 等地驅趕到 Oklahoma，途中因飢餓、疾病與寒冷死亡約 4,000 人。背景：Georgia 發現黃金、1835 年少數 Cherokee 簽下的 New Echota 條約（多數人反對）；最高法院 Worcester v. Georgia（1832）判 Cherokee 有主權，Jackson 卻不執行。`,
+ w:`Sioux 活動在大平原（Little Bighorn、Wounded Knee）；Navajo 的是 1864 年 "Long Walk"；Apache 在西南（Geronimo 1886 投降）。`},
+
+{id:'L4-05', u:'L4', t:'expansion', k:'date',
+ q:`Homestead Act passed in:`,
+ o:[`1850`,`1854`,`1862`,`1877`], a:2,
+ e:`1862 年 Lincoln 簽署 Homestead Act：成年公民（或有意入籍者）只要繳少額登記費，在 160 英畝公地上耕作居住 5 年，就能免費取得土地。它大力促成大平原的開墾，累計約 160 萬件申請、約 2.7 億英畝土地；也是南方議員離開國會後才得以通過的法案。`,
+ w:`1850 是 Compromise of 1850；1854 是 Kansas-Nebraska Act；1877 是 Reconstruction 結束。`,
+ m:`1862 = Homestead = 160 acres = 5 years。`},
+
+{id:'L4-06', u:'L4', t:'expansion', k:'date',
+ q:`The transcontinental railroad was completed in:`,
+ o:[`1848`,`1861`,`1869`,`1889`], a:2,
+ e:`1869 年 5 月 10 日，Union Pacific（從 Omaha 往西，愛爾蘭移民為主）與 Central Pacific（從 Sacramento 往東，華工為主）在 Utah 的 Promontory Summit 接軌（Golden Spike）。橫越大陸的旅程從數月縮短到約一週，加速西部開發，也壓縮了原住民與野牛的生存空間。`,
+ w:`1848 是加州 Gold Rush 開始；1861 是內戰開始；1889 是 Oklahoma 的首次 Land Run。`},
+
+{id:'L4-07', u:'L4', t:'expansion', k:'concept', ident:`Manifest Destiny`,
+ q:`Manifest Destiny emphasized:`,
+ o:[`Expansion`,`Urbanization`,`Industrialization`,`Abolition`], a:0,
+ e:`Manifest Destiny 強調美國注定要向西擴張，把領土推到太平洋，並傳播民主與自由。它支持了德州併吞、奧勒岡、美墨戰爭、加州取得，但也帶來原住民流離失所與奴隸制能否擴張的爭議。`,
+ w:`Urbanization 與 Industrialization 是同時期的社會變化，但不是這個概念的內容；Abolition 是廢奴運動，與擴張是兩回事（甚至因擴張產生衝突）。`},
+
+{id:'L4-08', u:'L4', t:'native', k:'date',
+ q:`Little Bighorn occurred in:`,
+ o:[`1862`,`1876`,`1887`,`1890`], a:1,
+ e:`1876 年 6 月 25–26 日在 Montana，Lakota Sioux 與 Northern Cheyenne 在 Sitting Bull、Crazy Horse 等人領導下，擊敗 George Custer 的第七騎兵團（"Custer's Last Stand"）。起因是 Black Hills 發現金礦（1874），白人闖入，違反 1868 Fort Laramie Treaty。戰後美軍加強報復，Sioux 被迫投降，失去 Black Hills。`,
+ w:`1862 是 Homestead Act 與 Dakota War（Minnesota）；1887 是 Dawes Act；1890 是 Wounded Knee。`,
+ m:`1876 Little Bighorn → 1887 Dawes → 1890 Wounded Knee。`},
+
+{id:'L4-09', u:'L4', t:'native', k:'person',
+ q:`Which leader was associated with the Sioux?`,
+ o:[`Sitting Bull`,`Brigham Young`,`Henry Clay`,`Webster`], a:0,
+ e:`Sitting Bull 是 Hunkpapa Lakota（Sioux）的酋長與精神領袖，Little Bighorn 的主要領導人之一，1890 年 12 月在警察逮捕行動中被殺，兩週後發生 Wounded Knee 大屠殺。`,
+ w:`Brigham Young 是 Mormon 領袖；Henry Clay 是「偉大妥協者」，主導 Missouri Compromise 與 Compromise of 1850；Daniel Webster 是支持聯邦的參議員。`},
+
+{id:'L4-10', u:'L4', t:'native', k:'doc',
+ q:`Dawes Act aimed to:`,
+ o:[`Preserve reservations`,`Expand slavery`,`Create territories`,`Divide tribal lands`], a:3,
+ e:`1887 年 Dawes Act（General Allotment Act）把部落共有的保留區土地分成個人持有（一家之主 160 英畝），剩餘土地賣給白人。目的是瓦解部落制度，讓原住民「同化」（assimilate）為自耕農。結果原住民的土地從約 1.38 億英畝縮減到 1934 年的約 4,800 萬英畝，1934 年 Indian Reorganization Act 才停止。`,
+ w:`A 剛好相反；Expand slavery 是 1850s 的議題；Create territories 與此法無關。`},
+
+{id:'L4-11', u:'L4', t:'native', k:'date',
+ q:`Wounded Knee occurred in:`,
+ o:[`1880`,`1887`,`1890`,`1900`], a:2,
+ e:`1890 年 12 月 29 日，在 South Dakota 的 Pine Ridge 保留區，美軍第七騎兵團屠殺約 250–300 名 Lakota，多數是婦孺。起因是軍方對 Ghost Dance 運動的恐慌。一般視為 Indian Wars 的終點。`,
+ w:`1887 是 Dawes Act；1880、1900 都不是重大事件年份。`},
+
+{id:'L4-12', u:'L4', t:'expansion', k:'person',
+ q:`Brigham Young led:`,
+ o:[`Cherokee`,`Mormons`,`Sioux`,`Democrats`], a:1,
+ e:`Joseph Smith 在 1844 年於 Illinois 遇害後，Brigham Young 帶領 Mormons（Latter-day Saints）西遷，1847 年抵達 Great Salt Lake 盆地，建立 Salt Lake City；1850 年成為 Utah Territory 首任總督。Utah 在 1896 年才成為州。`,
+ w:`Cherokee 與 Sioux 是原住民；Democrats 是政黨，與他無關。`},
+
+{id:'L4-13', u:'L4', t:'expansion', k:'thing',
+ q:`Cattle drives supplied:`,
+ o:[`Chicago`,`New Orleans`,`Boston`,`Philadelphia`], a:0,
+ e:`德州牛群沿 Chisholm Trail 等路線被趕到 Kansas 的鐵路終點小鎮（Abilene、Dodge City 等），再由火車運到 Chicago 的 Union Stock Yards 屠宰加工，供應東部肉品市場。這就是牛仔（cowboys）與 "cow town" 的歷史背景。`,
+ w:`New Orleans、Boston、Philadelphia 都不是主要的牛肉加工中心，且和 Kansas 鐵路沒有直接連結。`},
+
+{id:'L4-14', u:'L4', t:'expansion', k:'concept',
+ q:`Turner's thesis focused on:`,
+ o:[`Slavery`,`Immigration`,`Reconstruction`,`Frontier influence`], a:3,
+ e:`Frederick Jackson Turner 在 1893 年發表 "The Significance of the Frontier in American History"，主張邊疆（frontier）經驗塑造了美國的個人主義、民主與進取精神。他以 1890 年人口普查宣告邊疆「關閉」為背景。後來被批評忽略原住民、女性與少數族群的經驗。`,
+ w:`奴隸制、移民、重建都不是他論文的主軸。`},
+
+{id:'L4-15', u:'L4', t:'sectional', k:'event',
+ q:`Which event temporarily settled sectional tensions?`,
+ o:[`War of 1812`,`Missouri Compromise`,`Wounded Knee`,`Dawes Act`], a:1,
+ e:`1820 年 Missouri Compromise（由 Henry Clay 促成）靠「Missouri 蓄奴 + Maine 自由」與 36°30′ 線，暫時平息了奴隸州與自由州的衝突。但問題只是被延後：1854 年 Kansas-Nebraska Act 廢除該線，1857 年 Dred Scott 判它違憲。`,
+ w:`War of 1812 是美英戰爭；Wounded Knee 與 Dawes Act 屬於原住民政策，與南北地區矛盾無關。`}
+);

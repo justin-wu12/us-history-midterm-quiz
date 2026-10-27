@@ -1,0 +1,96 @@
+/* Lecture 3：The Road to Independence and the Formation of a New Nation（15 題） */
+(window.QBANK = window.QBANK || []).push(
+{id:'L3-01', u:'L3', t:'french-indian', k:'event', ident:`French and Indian War`,
+ q:`Which event most directly ended the French and Indian War?`,
+ o:[`Boston Massacre`,`Treaty of Paris 1763`,`Stamp Act`,`Saratoga`], a:1,
+ e:`1763 年 2 月簽訂的 Treaty of Paris 正式結束七年戰爭（北美稱法印戰爭）：英國取得 Canada 與密西西比河以東土地。`,
+ w:`Boston Massacre 是 1770 年；Stamp Act 是 1765 年（戰後課稅的結果）；Saratoga 是 1777 年獨立戰爭的轉捩點。另一個 Treaty of Paris 是 1783 年，結束的是獨立戰爭，要分清楚。`},
+
+{id:'L3-02', u:'L3', t:'revolution-road', k:'concept',
+ q:`What slogan summarized colonial opposition to British taxes?`,
+ o:[`Liberty or Death`,`Give me Liberty`,`No Taxation Without Representation`,`Common Sense`], a:2,
+ e:`"No Taxation Without Representation" 概括了殖民地的主張：英國國會裡沒有殖民地選出的代表，所以無權向殖民地課稅。1765 年 Stamp Act 之後，這句話成為抗稅的標語。`,
+ w:`A、B 其實是同一句 Patrick Henry 在 1775 年的名言 "Give me liberty, or give me death!"，與課稅無直接關係；Common Sense 是 Thomas Paine 1776 年的小冊子名稱，不是標語。`},
+
+{id:'L3-03', u:'L3', t:'revolution-road', k:'date',
+ q:`The Stamp Act was passed in:`,
+ o:[`1763`,`1765`,`1770`,`1774`], a:1,
+ e:`1765 年英國國會通過 Stamp Act，要求報紙、法律文件、紙牌等印刷品都要貼稅票。這是英國首次對殖民地直接課稅，引發 Stamp Act Congress、抵制英貨與暴力抗議，1766 年被廢止（但同時通過 Declaratory Act 宣示英國有權立法）。`,
+ w:`1763 是 Treaty of Paris 與 Proclamation；1770 是 Boston Massacre；1774 是 Intolerable（Coercive）Acts 與第一次大陸會議。`,
+ m:`1763 戰爭結束 → 1764 Sugar → 1765 Stamp → 1767 Townshend → 1773 Tea。`},
+
+{id:'L3-04', u:'L3', t:'revolution-road', k:'person',
+ q:`Which group organized resistance to the Stamp Act?`,
+ o:[`Federalists`,`Anti-Federalists`,`Sons of Liberty`,`Whigs`], a:2,
+ e:`Sons of Liberty 在 1765 年前後出現於各殖民地（以 Boston 的 Samuel Adams 最著名），透過遊行、焚燒人像、威嚇稅務官來抵制 Stamp Act，後來也籌劃 1773 年的 Boston Tea Party。`,
+ w:`Federalists 與 Anti-Federalists 是 1787–88 年憲法批准辯論中的兩派；Whigs 本是英國政黨名稱（美國另有 1830s–50s 的 Whig Party），不是這個組織。`},
+
+{id:'L3-05', u:'L3', t:'revolution-road', k:'date', ident:`First and Second Continental Congresses`,
+ q:`The Boston Tea Party occurred in:`,
+ o:[`1770`,`1773`,`1775`,`1776`], a:1,
+ e:`1773 年 12 月 16 日，為抗議 Tea Act（讓東印度公司壟斷殖民地茶葉），Sons of Liberty 偽裝成原住民登上船，把 342 箱茶葉倒入 Boston 港。英國以 1774 年 Coercive（Intolerable）Acts 報復，殖民地則在 1774 年 9 月召開第一次大陸會議（First Continental Congress）。`,
+ w:`1770 是 Boston Massacre；1775 是 Lexington & Concord；1776 是獨立宣言。`},
+
+{id:'L3-06', u:'L3', t:'revolution-road', k:'event', ident:`First and Second Continental Congresses`,
+ q:`Which event is called the “shot heard round the world”?`,
+ o:[`Saratoga`,`Yorktown`,`Lexington and Concord`,`Bunker Hill`], a:2,
+ e:`1775 年 4 月 19 日，英軍從 Boston 出發前往 Concord 搜繳民兵武器，在 Lexington Green 與民兵交火，獨立戰爭由此展開。「shot heard round the world」出自 Ralph Waldo Emerson 的詩〈Concord Hymn〉。同年 5 月第二次大陸會議召開，並任命 Washington 為大陸軍總司令。`,
+ w:`Bunker Hill（1775 年 6 月）是英軍慘勝；Saratoga（1777）是轉捩點；Yorktown（1781）是最後決戰。`},
+
+{id:'L3-07', u:'L3', t:'revolution-war', k:'person',
+ q:`Who wrote Common Sense?`,
+ o:[`Jefferson`,`Madison`,`Paine`,`Franklin`], a:2,
+ e:`Thomas Paine 在 1776 年 1 月出版《Common Sense》，用淺白語言主張脫離英國、批評君主制、呼籲建立共和政府，銷量極大（至少數十萬冊），把「獨立」從激進想法變成大眾議題。`,
+ w:`Jefferson 起草《獨立宣言》；Madison 是憲法的主要設計者；Franklin 是科學家兼對法外交的功臣。`,
+ m:`Paine = Pamphlet = Common Sense。`},
+
+{id:'L3-08', u:'L3', t:'revolution-war', k:'person', ident:`First and Second Continental Congresses`,
+ q:`Principal author of the Declaration of Independence:`,
+ o:[`Adams`,`Franklin`,`Jefferson`,`Washington`], a:2,
+ e:`1776 年第二次大陸會議指派五人委員會（Jefferson、Adams、Franklin、Sherman、Livingston），由 Thomas Jefferson 執筆，吸收了 Locke 的自然權利思想，7 月 4 日通過。`,
+ w:`John Adams 是推動獨立最力的代表之一，並提名 Jefferson 起草；Franklin 只做了修改；Washington 是大陸軍總司令，不是起草人。`},
+
+{id:'L3-09', u:'L3', t:'revolution-war', k:'event',
+ q:`Which battle convinced France to support America?`,
+ o:[`Yorktown`,`Long Island`,`Saratoga`,`Princeton`], a:2,
+ e:`1777 年 10 月在紐約的 Saratoga，美軍擊敗並迫使 John Burgoyne 率英軍投降，證明美國有可能打贏。法國因此在 1778 年與美國簽訂同盟條約（Treaty of Alliance），提供金錢、軍火與海軍。`,
+ w:`Yorktown（1781）是法國出手相助之後的決戰；Long Island（1776）是美軍大敗；Princeton（1777 年 1 月）是小勝，鼓舞士氣但沒有促成法國結盟。`,
+ m:`Saratoga = 轉捩點 = 法國加入。`},
+
+{id:'L3-10', u:'L3', t:'revolution-war', k:'person', ident:`Benjamin Franklin`,
+ q:`French assistance was secured largely by:`,
+ o:[`Hamilton`,`Franklin`,`Adams`,`Lee`], a:1,
+ e:`Benjamin Franklin 1776 年底抵達巴黎，憑藉聲望、機智與外交手腕，在 Saratoga 勝利後促成 1778 年的法美同盟條約與通商條約，是獨立戰爭外交上最關鍵的人物。`,
+ w:`Hamilton 是 Washington 的副官，後來的財政部長；Adams 在荷蘭談成貸款（1782）；Arthur Lee 也是駐法委員，但與 Franklin 不和、作用有限。`},
+
+{id:'L3-11', u:'L3', t:'revolution-war', k:'event',
+ q:`The war effectively ended at:`,
+ o:[`Trenton`,`Philadelphia`,`Yorktown`,`Concord`], a:2,
+ e:`1781 年 10 月 19 日，英軍 Cornwallis 在 Virginia 的 Yorktown 被 Washington 與法軍 Rochambeau 的陸軍、de Grasse 的法國艦隊合圍而投降。英國此後停止主要作戰，1783 年 Treaty of Paris 正式承認美國獨立。`,
+ w:`Trenton（1776 年 12 月）是 Washington 渡過 Delaware 河的奇襲；Philadelphia 是首都，1777 年曾被英軍占領；Concord 是 1775 年戰爭開始之處。`},
+
+{id:'L3-12', u:'L3', t:'founding', k:'doc',
+ q:`America's first national government was established by:`,
+ o:[`Constitution`,`Bill of Rights`,`Articles of Confederation`,`Northwest Ordinance`], a:2,
+ e:`《邦聯條例》（Articles of Confederation，1777 通過、1781 批准）建立第一個全國政府：單院國會、每州一票、沒有行政首長與全國法院、沒有課稅權、修正需 13 州全票同意。它成功處理了西部土地（1787 Northwest Ordinance），但太弱，導致 1787 年制憲。`,
+ w:`Constitution（1787）是第二個全國政府架構；Bill of Rights 是 1791 年的前十條修正案；Northwest Ordinance 是 1787 年領地治理法令，不是政府架構。`},
+
+{id:'L3-13', u:'L3', t:'founding', k:'concept',
+ q:`Shays' Rebellion demonstrated:`,
+ o:[`British strength`,`Need for a stronger central government`,`End of slavery`,`French influence`], a:1,
+ e:`1786–87 年 Massachusetts 西部貧困農民（領袖 Daniel Shays，獨立戰爭老兵）因債務、重稅與法院沒收農地起義。邦聯政府沒錢沒軍隊，只能靠州民兵鎮壓，讓菁英驚覺必須強化中央政府，推動了 1787 年制憲會議。`,
+ w:`此事件與英國勢力、奴隸制、法國都無關，是美國內部問題。`},
+
+{id:'L3-14', u:'L3', t:'founding', k:'person',
+ q:`“Father of the Constitution”:`,
+ o:[`Madison`,`Hamilton`,`Jefferson`,`Morris`], a:0,
+ e:`James Madison 是費城制憲會議的主要設計者（Virginia Plan）、會議紀錄最完整的人、Federalist Papers 的作者之一（#10、#51），後來又起草 Bill of Rights，所以被稱為「憲法之父」。`,
+ w:`Hamilton 寫了 Federalist Papers 85 篇中的 51 篇，主張強勢中央；Jefferson 當時人在巴黎擔任公使，沒出席制憲會議；Gouverneur Morris 負責文字潤飾，寫出前言 "We the People"。`},
+
+{id:'L3-15', u:'L3', t:'founding', k:'date',
+ q:`The Bill of Rights was added in:`,
+ o:[`1783`,`1787`,`1789`,`1791`], a:3,
+ e:`憲法批准時，Anti-Federalists 批評缺少對人民權利的保障。Madison 於 1789 年向國會提出修正案，1791 年 12 月前十條獲得批准，統稱 Bill of Rights（第一修正案保障宗教、言論、新聞、集會、請願自由）。`,
+ w:`1783 是 Treaty of Paris；1787 是憲法起草；1789 是憲法正式生效、新國會提出修正案但尚未批准。`,
+ m:`1787 憲法 → 1789 生效 → 1791 權利法案。`}
+);

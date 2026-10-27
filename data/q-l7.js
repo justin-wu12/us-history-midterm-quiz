@@ -1,0 +1,96 @@
+/* Lecture 7：Growth and Transformation (1865–1914)（15 題） */
+(window.QBANK = window.QBANK || []).push(
+{id:'L7-01', u:'L7', t:'gilded', k:'person',
+ q:`Which industry was most associated with Andrew Carnegie?`,
+ o:[`Oil`,`Steel`,`Railroads`,`Banking`], a:1,
+ e:`Andrew Carnegie 的 Carnegie Steel（Pittsburgh）採用 Bessemer 煉鋼法與垂直整合（掌控礦場、運輸到煉鋼），1901 年賣給 J.P. Morgan，合併成 U.S. Steel。他在《The Gospel of Wealth》（1889）主張富人有義務把財富捐給社會。`,
+ w:`Oil 是 Rockefeller（Standard Oil）；Railroads 的代表是 Vanderbilt；Banking 的代表是 J.P. Morgan。`,
+ m:`Carnegie = Steel；Rockefeller = Oil；Vanderbilt = Railroads；Morgan = Banking。`},
+
+{id:'L7-02', u:'L7', t:'gilded', k:'thing', ident:`Samuel F. B. Morse`,
+ q:`Which invention is associated with Alexander Graham Bell?`,
+ o:[`Phonograph`,`Telegraph`,`Telephone`,`Radio`], a:2,
+ e:`Alexander Graham Bell 於 1876 年取得電話（telephone）專利。電話使長距離即時語音通訊成為可能，促成了通訊與企業管理的革新。`,
+ w:`Telegraph 是 Samuel F. B. Morse（1844 年 Washington–Baltimore 線，"What hath God wrought"）— 這也是期中 Identification 題目；Phonograph 是 Edison（1877）；Radio 是 Marconi（1890s）。`},
+
+{id:'L7-03', u:'L7', t:'gilded', k:'date',
+ q:`The Interstate Commerce Act was passed in:`,
+ o:[`1865`,`1877`,`1887`,`1898`], a:2,
+ e:`1887 年的 Interstate Commerce Act 是聯邦政府第一次對私營企業的重要管制，針對鐵路的不公平運費與秘密折扣（rebates），並成立第一個聯邦管制機構 Interstate Commerce Commission（ICC）。起因是農民（Grange 運動）對鐵路壟斷的不滿。`,
+ w:`1865 是內戰結束；1877 是 Reconstruction 結束與全國鐵路大罷工；1898 是美西戰爭。`,
+ m:`1887 ICA（鐵路）→ 1890 Sherman（托拉斯）。`},
+
+{id:'L7-04', u:'L7', t:'gilded', k:'person',
+ q:`Standard Oil was founded by:`,
+ o:[`Carnegie`,`Vanderbilt`,`Rockefeller`,`Morgan`], a:2,
+ e:`John D. Rockefeller 1870 年在 Ohio 創立 Standard Oil，採水平整合與 trust 架構，高峰期控制約九成的煉油業。1911 年最高法院判決將其拆分。`,
+ w:`Carnegie 是鋼鐵；Vanderbilt 是鐵路；Morgan 是金融與 U.S. Steel 的整合者。`},
+
+{id:'L7-05', u:'L7', t:'gilded', k:'date',
+ q:`The Sherman Antitrust Act was passed in:`,
+ o:[`1870`,`1880`,`1890`,`1900`], a:2,
+ e:`1890 年 Sherman Antitrust Act 是第一部聯邦反托拉斯法，禁止限制貿易的壟斷與聯合。早期執法薄弱，甚至被用來對付工會（如 1894 Pullman Strike）；直到 Theodore Roosevelt 起才積極執行，Wilson 時期又通過 1914 Clayton Act 補強。`,
+ w:`1870、1880、1900 都不是此法通過的年份。`},
+
+{id:'L7-06', u:'L7', t:'expansion', k:'date',
+ q:`The Transcontinental Railroad was completed in:`,
+ o:[`1865`,`1869`,`1876`,`1887`], a:1,
+ e:`1869 年 5 月 10 日，Union Pacific 與 Central Pacific 在 Utah 的 Promontory Summit 接軌（Golden Spike），橫貫大陸鐵路完工。（與 Lecture 4 第 6 題相同。）它加速了西部開發、農畜產品運往東部，也壓縮原住民與野牛的生存空間。`,
+ w:`1865 是內戰結束；1876 是 Little Bighorn 與電話專利；1887 是 Dawes Act 與 Interstate Commerce Act。`},
+
+{id:'L7-07', u:'L7', t:'expansion', k:'doc',
+ q:`The Homestead Act encouraged:`,
+ o:[`Immigration`,`Industrialization`,`Western settlement`,`Imperialism`], a:2,
+ e:`1862 年的 Homestead Act 提供公地給拓荒者（160 英畝、住滿 5 年），鼓勵人民向西定居與開墾。（與 Lecture 4 第 5 題相同。）`,
+ w:`它的確吸引歐洲移民，但直接目標是西部定居；與工業化、帝國主義沒有直接關係。`},
+
+{id:'L7-08', u:'L7', t:'reconstruction', k:'doc',
+ q:`Which Supreme Court case upheld segregation?`,
+ o:[`Dred Scott`,`Marbury`,`Brown`,`Plessy v. Ferguson`], a:3,
+ e:`Plessy v. Ferguson（1896）：Louisiana 要求火車車廂種族隔離，Homer Plessy 故意違規。最高法院以 7 比 1 判決 "separate but equal"（隔離但平等）合憲，唯一異議者 John Marshall Harlan 寫下 "Our Constitution is color-blind"。這使 Jim Crow 法律合法化近六十年，直到 1954 年 Brown v. Board of Education 才推翻公立學校的隔離。`,
+ w:`Dred Scott（1857）是否認黑人公民身分；Marbury v. Madison（1803）確立司法審查；Brown（1954）剛好是「推翻」隔離，不是支持。`,
+ m:`Plessy 1896 = 支持隔離；Brown 1954 = 推翻隔離。`},
+
+{id:'L7-09', u:'L7', t:'gilded', k:'person',
+ q:`George Washington Carver is best known for:`,
+ o:[`Banking`,`Agriculture`,`Railroads`,`Politics`], a:1,
+ e:`George Washington Carver 是 Tuskegee Institute（Alabama）的教授，推廣輪作（crop rotation）與花生、甘薯、大豆等作物，改善被棉花耗盡的土壤，並開發許多花生產品，是黑人科學家與農業教育的代表。`,
+ w:`Tuskegee 的創辦校長與 "Atlanta Compromise"（1895）的提出者是 Booker T. Washington，別混淆。Carver 與銀行、鐵路、政治無關。`},
+
+{id:'L7-10', u:'L7', t:'native', k:'date',
+ q:`The Battle of Little Bighorn occurred in:`,
+ o:[`1869`,`1876`,`1887`,`1898`], a:1,
+ e:`1876 年 6 月 Montana，Sitting Bull、Crazy Horse 領導的 Lakota Sioux 與 Cheyenne 擊敗 Custer 的第七騎兵團。（與 Lecture 4 第 8 題相同。）背景是 Black Hills 發現金礦後違反 Fort Laramie Treaty。`,
+ w:`1869 是鐵路完工；1887 是 Dawes Act；1898 是美西戰爭。`},
+
+{id:'L7-11', u:'L7', t:'native', k:'doc',
+ q:`The Dawes Act sought to:`,
+ o:[`Expand railroads`,`Regulate trusts`,`Assimilate Native Americans`,`Build canals`], a:2,
+ e:`1887 年 Dawes Act 把部落共有地分成個人土地，目的是同化（assimilate）原住民、使其成為自耕農並瓦解部落制度。（與 Lecture 4 第 10 題相同。）結果原住民土地大幅縮水。`,
+ w:`Expand railroads、Regulate trusts（Sherman Act）、Build canals（Panama Canal）都是不同議題。`},
+
+{id:'L7-12', u:'L7', t:'imperialism', k:'date', ident:`Spanish-American War`,
+ q:`The Spanish-American War occurred in:`,
+ o:[`1888`,`1890`,`1898`,`1905`], a:2,
+ e:`1898 年（約 4–8 月）：起因是古巴獨立運動、報業大亨製造的 "yellow journalism"，以及 USS Maine 號 1898 年 2 月在 Havana 港爆炸（"Remember the Maine!"）。結果：1898 Treaty of Paris，美國取得 Puerto Rico、Guam、Philippines（付西班牙 2,000 萬美元），古巴名義獨立但受 Platt Amendment（1901）限制。美國由此成為殖民強權，Theodore Roosevelt 與 Rough Riders 聲名大噪。`,
+ w:`1888、1890、1905 都不是戰爭年份。同年美國也併吞 Hawaii。`,
+ m:`1898 = 美西戰爭 = 海外帝國的開端。`},
+
+{id:'L7-13', u:'L7', t:'imperialism', k:'thing',
+ q:`Which territory was purchased from Russia?`,
+ o:[`Hawaii`,`Puerto Rico`,`Guam`,`Alaska`], a:3,
+ e:`1867 年國務卿 William Seward 以 720 萬美元向俄國買下 Alaska，當時被嘲笑為 "Seward's Folly"；後來發現黃金（Klondike 熱潮）與石油，才證明這是划算的交易。Alaska 1959 年成為第 49 州。`,
+ w:`Hawaii 是 1898 年併吞；Puerto Rico 與 Guam 是 1898 年美西戰爭後從西班牙取得。`},
+
+{id:'L7-14', u:'L7', t:'imperialism', k:'date',
+ q:`The Panama Canal opened in:`,
+ o:[`1898`,`1903`,`1914`,`1920`], a:2,
+ e:`巴拿馬運河 1904 年開工，1914 年 8 月 15 日通航。Theodore Roosevelt 在 1903 年支持巴拿馬脫離哥倫比亞並簽訂運河條約，體現其 "Big Stick" 外交；Gorgas 控制黃熱病與瘧疾是工程成功的關鍵。運河把紐約到舊金山的航程縮短約 8,000 英里。`,
+ w:`1898 是美西戰爭；1903 是巴拿馬獨立與條約，運河還沒完工。`},
+
+{id:'L7-15', u:'L7', t:'gilded', k:'person',
+ q:`Which president strongly enforced antitrust laws?`,
+ o:[`Cleveland`,`McKinley`,`Roosevelt`,`Wilson`], a:2,
+ e:`Theodore Roosevelt 被稱為 "trust buster"：1902 年起訴 J.P. Morgan 的 Northern Securities 鐵路托拉斯（1904 勝訴），並對 Standard Oil 等提告。他也調解 1902 煤礦罷工（"Square Deal"），並推動保育與國家公園。`,
+ w:`Cleveland 與 McKinley 偏向保守親商；Wilson 也通過 1914 Clayton Antitrust Act 與成立 FTC，但本題以 Theodore Roosevelt 為典型答案。`}
+);
